@@ -8,6 +8,6 @@ hola aqui desquiciandome tratando de hacer los ejercicos, algun dia "lo lograre"
 
  ayudaaaaS
 
- ![hack] (img/perri.png)
+ ![hack](img/perri.png)
 
 
